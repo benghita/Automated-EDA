@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
-import plotly.express as px
 
 def generate_histogram(df, column_name):
     plt.figure(figsize=(8, 6))
